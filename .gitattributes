@@ -1,0 +1,7 @@
+
+# Arquivos binários
+*.pbix binary
+*.png binary
+
+# Documentação
+*.md text eol=lf

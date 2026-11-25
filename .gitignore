@@ -1,0 +1,16 @@
+
+# Arquivos temporários
+*.tmp
+*.bak
+~$*
+
+# Arquivos do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Configurações locais
+.vscode/
+
+# Backups do Power BI
+*.pbix.bak
